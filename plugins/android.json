@@ -1,0 +1,43 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-email-composer": {
+            "PACKAGE_NAME": "com.titaniumtemplates.supermodular_ionic"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.titaniumtemplates.supermodular_ionic"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.titaniumtemplates.supermodular_ionic"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.titaniumtemplates.supermodular_ionic"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.titaniumtemplates.supermodular_ionic"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.titaniumtemplates.supermodular_ionic"
+        },
+        "cordova-plugin-transport-security": {
+            "PACKAGE_NAME": "com.titaniumtemplates.supermodular_ionic"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.titaniumtemplates.supermodular_ionic"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.titaniumtemplates.supermodular_ionic"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.titaniumtemplates.supermodular_ionic"
+        }
+    }
+}
